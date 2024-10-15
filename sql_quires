@@ -1,1 +1,2 @@
 select * from table_name;
+select count(*) from table_name;
