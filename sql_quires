@@ -1,2 +1,2 @@
 select * from table_name;
-select count(*) from table_name;
+select count(*) from table_name; (from local repo)
